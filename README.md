@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a multiplayer game of [Whot](https://github.com/elviseshikena/Whot)
-- 🌱 I’m currently learning `Algorithms and Data structures`
+- 🔭 I’m currently working on a game of [Cards](https://github.com/elviseshikena/whot-app)
 
 <!--
 **elviseshikena/elviseshikena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
